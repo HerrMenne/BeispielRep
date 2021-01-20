@@ -2,6 +2,6 @@
 Si.
 =======
 Dies ist eine Beispiel-Textdatei. Bitte bearbeiten.
-
+Anderung für Herr Menne von LAsse
 Eine Änderung von Herrn Menne.
 >>>>>>> 11df95a0253ae951231e9bc3a5f8917df44cb010
